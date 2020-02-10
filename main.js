@@ -39,3 +39,8 @@ if (clockCard) {
 } else {
     toast(clickOK + button02 + NO);
 }
+
+
+
+
+
