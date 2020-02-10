@@ -1,2 +1,5 @@
-// toast('Hello, Auto.js');
-alert('hello')
+/**
+ * 
+ */
+var name = "钉钉"
+launchApp(name);
