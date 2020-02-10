@@ -1,4 +1,4 @@
-# auto_js
+# auto_js 钉钉自动打卡
  ## vscode插件
  ### 连接 
  1. 开启服务 auto.js start server
@@ -19,3 +19,5 @@ Stop Server: 停止插件服务。
 1. New Project（新建项目）：选择一个空文件夹（或者在文件管理器中新建一个空文件夹），将会自动创建一个项目
 1. Run Project（运行项目）：运行一个项目，需要Auto.js 4.0.4Alpha5以上支持
 1. Save Project（保存项目）：保存一个项目，需要Auto.js 4.0.4Alpha5以上支持
+
+### 完成 ✅
