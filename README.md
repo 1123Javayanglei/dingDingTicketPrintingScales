@@ -27,4 +27,4 @@ Stop Server: 停止插件服务。
 [点击下载](https://github.com/1123Javayanglei/dingDingTicketPrintingScales/blob/master/apk/base.apk)
 
 ## 脚本文件
-[查看](https://github.com/1123Javayanglei/dingDingTicketPrintingScales/blob/master/main.js)
+[查看](https://github.com/1123Javayanglei/dingDingTicketPrintingScales/tree/master/%E8%84%9A%E6%9C%AC%E6%96%87%E4%BB%B6)
