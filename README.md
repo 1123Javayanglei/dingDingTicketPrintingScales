@@ -5,6 +5,10 @@
  2. 通过 ifconfig 查看电脑的ip
  3. 在auto.js app 的侧边栏连接电脑输入电脑的ip
  > 以上行为在vscode中均有通知
+ ***
+ ### 视频演示
+ [健康打卡](https://gitee.com/Java1123yanglei/myPicture/blob/master/images/%E9%92%89%E9%92%89%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1.mp4)
+ [考勤打卡](https://gitee.com/Java1123yanglei/myPicture/blob/master/images/%E9%92%89%E9%92%89%E8%80%83%E5%8B%A4%E6%89%93%E5%8D%A1.mp4)
 ***
 ### 快捷键
 1. Start Server: 启动插件服务。之后在确保手机和电脑在同一区域网的情况下，在Auto.js的侧拉菜单中使用连接电脑功能连接。
